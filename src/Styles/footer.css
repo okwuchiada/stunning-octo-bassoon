@@ -1,0 +1,41 @@
+.footer {
+    background: #202020;
+    color: #d6d6d6;
+    width: 100%;
+    border-top: 3px solid #FFD100;
+}
+
+.footer-top {
+    width: 100%;
+    margin: auto;
+    padding: 1rem;
+    border-bottom: 2px solid #D6D6D6;
+}
+
+.socials {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+}
+
+.footer-bottom {
+    width: 100%;
+    margin: auto;
+    padding: 1rem;
+}
+
+.land {
+    text-align: center;
+}
+
+.developer {
+    background: #FFD100;
+    color: #222;
+    padding: .3rem;
+    border-radius: 3px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: small;
+}
